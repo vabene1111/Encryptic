@@ -1,0 +1,1 @@
+Android App experiment for https://github.com/encryptic-team/encryptic
